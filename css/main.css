@@ -1,0 +1,19 @@
+.blue {
+		color: blue;
+		font-size: 76px;
+}
+.new {
+	background-color: red;
+	width: 30%;
+	margin: 25px;
+	border: 25px;
+}
+span {
+	color: white;
+}
+.left {
+	width: 30%;
+	float: left;
+	position: absolute;
+	left: 300;
+}
